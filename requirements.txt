@@ -1,5 +1,6 @@
 Flask
 gunicorn
+mysql-connector-python
 pandas
 scikit-learn
 numpy

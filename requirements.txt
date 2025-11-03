@@ -1,7 +1,6 @@
 Flask
-Flask-Cors
+flask-cors
 gunicorn
-mysql-connector-python
 pandas
-scikit-learn
 numpy
+scikit-learn
